@@ -1,0 +1,3 @@
+/home/carrot/HelloCV/the second week/build/CMakeFiles/CryptoTool.dir
+/home/carrot/HelloCV/the second week/build/CMakeFiles/edit_cache.dir
+/home/carrot/HelloCV/the second week/build/CMakeFiles/rebuild_cache.dir
