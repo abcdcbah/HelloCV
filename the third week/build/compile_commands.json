@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/carrot/HelloCV/the third week/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/OpenCV.dir/src/OpenCV.cpp.o -c \"/home/carrot/HelloCV/the third week/src/OpenCV.cpp\"",
+  "file": "/home/carrot/HelloCV/the third week/src/OpenCV.cpp"
+}
+]

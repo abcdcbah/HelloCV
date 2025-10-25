@@ -1,0 +1,3 @@
+/home/carrot/HelloCV/the third week/build/CMakeFiles/OpenCV.dir
+/home/carrot/HelloCV/the third week/build/CMakeFiles/edit_cache.dir
+/home/carrot/HelloCV/the third week/build/CMakeFiles/rebuild_cache.dir
